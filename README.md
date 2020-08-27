@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Kubernetes, Kubernetes operators, Go, infrastructure as code, queues,  WebAssembly
-- 🌱 I’m currently learning Cloud Native, technical architecture and distributed systems
+- 🔭 I’m currently working on Kubernetes, Kubernetes operators, Go, infrastructure as code, queues and WebAssembly.
+- 🌱 I’m currently learning Cloud Native, technical architecture and distributed systems.
 - ⚡ Fun fact: ...
 
 
